@@ -1,0 +1,17 @@
+h1 {
+ color: darkcyan;
+ font-family: "Papyrus";
+}
+h2 {
+  font-family: "Papyrus";
+  color: white;
+}
+body {
+  background-color: darkslategray;
+  font-family: "Book Antiqua";
+  color: burlywood
+}
+
+
+
+
