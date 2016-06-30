@@ -11,9 +11,9 @@
 
 
 
-  <p><a href="bookknowledge.com/warriorcats">Link to Warrior Cats</a> </p>
+  <p><a href="https://github.com/Wolfwolfiepaws/bookknowledge.com/blob/master/warriorcats">Link to Warrior Cats</a> </p>
   <img src="http://enterprise.supacache.com/images/working2/s504182/1.png" />
-  <p><a href="bookknowledge.com/harrypotter">Link to Harry Potter</a> </p>
+  <p><a href="https://github.com/Wolfwolfiepaws/bookknowledge.com/blob/master/harrypotter">Link to Harry Potter</a> </p>
   <img src="http://bestpictureblog.com/wp-content/uploads/2015/02/141.jpg" />
 
 </body>
